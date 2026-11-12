@@ -1,0 +1,22 @@
+# Build outputs and intermediate files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.pdb
+
+# Local and temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+.cache/
